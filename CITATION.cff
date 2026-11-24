@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use or build upon this repository, cite this repository metadata."
+type: software
+title: "Vector Database Benchmark"
+abstract: "Planned research and engineering repository; no completed implementation or research results are claimed."
+authors:
+  - given-names: "Mohd Rizam"
+    family-names: "Bakar"
+repository-code: "https://github.com/MarkRizam/vector-database-benchmark"
+url: "https://github.com/MarkRizam/vector-database-benchmark"
+license: MIT
+keywords:
+  - "vector-database"
+  - "planned"
